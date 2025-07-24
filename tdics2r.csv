@@ -1,0 +1,43 @@
+idade;idade2;sexo;tempo_famed;tempo_famed2;titulacao;formacao;formacao2;regime;cap_informatica;cap_informatica2;favorecimento;tdic_sus;tdic_sus2;comp_pessoal;inicia_docencia;tdic_docencia;motivacao;tdic_pessoal
+26-30;26-35;Feminino;Entre 1 e 3 anos;1-3 anos;Especialista;Medicina;Medico;20 horas;Nao;Nao;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;5;Motivado;11
+46-50;46 ou mais;Feminino;Entre 1 e 3 anos;1-3 anos;Especialista;Medicina;Medico;40 horas;Nao;Nao;Nao sei;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Depois FAMED;5;Motivado;11
+31-35;26-35;Masculino;Entre 1 e 3 anos;1-3 anos;Doutorado;CBS;Nao medico;Dedicacao exclusiva;Por incentivo da UFVJM/FAMED;Sim;Favorece;Nao ministro;Nao ministro;Indisponibilidade;Depois FAMED;4;Incentivo;9
+31-35;26-35;Feminino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Nao;Nao;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;2;Incentivo;4
+26-30;26-35;Feminino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Por outro motivo;Sim;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;1;Incentivo;3
+41-45;41-45;Feminino;Menos de 1 ano;Menos de 1 ano;Doutorado;Enfermagem;Nao medico;Dedicacao exclusiva;Por outro motivo;Sim;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Antes FAMED;5;Motivado;11
+36-40;36-40;Feminino;Entre 1 e 3 anos;1-3 anos;Especialista;Medicina;Medico;20 horas;Por outro motivo;Sim;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;1;Incentivo;4
+36-40;36-40;Feminino;Entre 1 e 3 anos;1-3 anos;Doutorado;Fisioterapia;Nao medico;40 horas;Por outro motivo;Sim;Nao favorece;Nao ministro;Nao ministro;Preferência;Depois FAMED;2;Atrapalha;12
+31-35;26-35;Feminino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Nao;Nao;Favorece;Dispositivo pessoal;Dispositivo pessoal;Preferência;Nao;3;Incentivo;4
+31-35;26-35;Masculino;Menos de 1 ano;Menos de 1 ano;Mestrado;Medicina;Medico;40 horas;Nao;Nao;Favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Depois FAMED;3;Atrapalha;4
+36-40;36-40;Feminino;Entre  3 e 5 anos;3 ou mais;Doutorado;Nutricao;Nao medico;40 horas;Nao;Nao;Nao favorece;Nao ministro;Nao ministro;Indisponibilidade;Antes FAMED;2;Incentivo;6
+41-45;41-45;Feminino;Mais de 5 anos;3 ou mais;Mestrado;Medicina;Medico;40 horas;Por incentivo da UFVJM/FAMED;Sim;Favorece;Dispositivo pessoal;Dispositivo pessoal;Preferência;Nao;3;Incentivo;7
+36-40;36-40;Masculino;Entre  3 e 5 anos;3 ou mais;Pós-doutorado;Fisioterapia;Nao medico;Dedicacao exclusiva;Nao;Nao;Favorece;Nao ministro;Nao ministro;Preferência;Depois FAMED;5;Motivado;9
+41-45;41-45;Feminino;Entre  3 e 5 anos;3 ou mais;Doutorado;CBS;Nao medico;Dedicacao exclusiva;Nao;Nao;Favorece;Nao ministro;Nao ministro;Indisponibilidade;Nao;3;Motivado;7
+41-45;41-45;Feminino;Entre  3 e 5 anos;3 ou mais;Mestrado;Medicina;Medico;40 horas;Nao;Nao;Nao sei;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Depois FAMED;3;Motivado;6
+36-40;36-40;Feminino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Nao;Nao;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Preferência;Depois FAMED;3;Incentivo;12
+41-45;41-45;Feminino;Entre  3 e 5 anos;3 ou mais;Especialista;Medicina;Medico;40 horas;Nao;Nao;Favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Depois FAMED;5;Incentivo;11
+36-40;36-40;Masculino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Nao;Nao;Nao sei;Nao ministro;Nao ministro;Indisponibilidade;Nao;1;Incentivo;4
+36-40;36-40;Masculino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Por outro motivo;Sim;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Preferência;Nao;2;Incentivo;2
+46-50;46 ou mais;Feminino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Nao;Nao;Nao sei;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;2;Incentivo;2
+50-55;46 ou mais;Masculino;Entre 1 e 3 anos;1-3 anos;Doutorado;CBS;Nao medico;Dedicacao exclusiva;Por outro motivo;Sim;Favorece;Nao ministro;Nao ministro;Indisponibilidade;Antes FAMED;3;Desmotivado;3
+36-40;36-40;Feminino;Entre 1 e 3 anos;1-3 anos;Doutorado;Fisioterapia;Nao medico;Dedicacao exclusiva;Nao;Nao;Favorece;Nao ministro;Nao ministro;Indisponibilidade;Depois FAMED;5;Motivado;8
+36-40;36-40;Masculino;Entre  3 e 5 anos;3 ou mais;Especialista;Medicina;Medico;40 horas;Nao;Nao;Favorece;Sem internet;Disponível;Indisponibilidade;Depois FAMED;4;Incentivo;6
+46-50;46 ou mais;Feminino;Entre  3 e 5 anos;3 ou mais;Mestrado;Medicina;Medico;40 horas;Nao;Nao;Nao favorece;Sem internet;Disponível;Indisponibilidade;Antes FAMED;2;Desmotivado;7
+36-40;36-40;Masculino;Entre 1 e 3 anos;1-3 anos;Mestrado;Medicina;Medico;40 horas;Nao;Nao;Nao sei;Dispositivo pessoal;Dispositivo pessoal;Preferência;Depois FAMED;2;Motivado;3
+36-40;36-40;Feminino;Entre 1 e 3 anos;1-3 anos;Especialista;Medicina;Medico;40 horas;Nao;Nao;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;3;Incentivo;3
+31-35;26-35;Masculino;Entre 1 e 3 anos;1-3 anos;Especialista;Medicina;Medico;20 horas;Nao;Nao;Favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;1;Desmotivado;2
+36-40;36-40;Feminino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Por outro motivo;Sim;Favorece;Com internet;Disponível;Indisponibilidade;Depois FAMED;2;Incentivo;1
+36-40;36-40;Masculino;Entre  3 e 5 anos;3 ou mais;Especialista;Medicina;Medico;20 horas;Por outro motivo;Sim;Favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;5;Motivado;9
+36-40;36-40;Feminino;Entre  3 e 5 anos;3 ou mais;Mestrado;Medicina;Medico;40 horas;Por incentivo da UFVJM/FAMED;Sim;Favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Antes FAMED;8;Motivado;15
+46-50;46 ou mais;Masculino;Entre  3 e 5 anos;3 ou mais;Mestrado;Medicina;Medico;40 horas;Nao;Nao;Favorece;Nao ministro;Nao ministro;Preferência;Depois FAMED;5;Motivado;4
+36-40;36-40;Masculino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Nao;Nao;Nao sei;Nao ministro;Nao ministro;Indisponibilidade;Depois FAMED;5;Motivado;9
+36-40;36-40;Feminino;Mais de 5 anos;3 ou mais;Pós-doutorado;Fisioterapia;Nao medico;Dedicacao exclusiva;Nao;Nao;Favorece;Nao ministro;Nao ministro;Indisponibilidade;Antes FAMED;4;Atrapalha;9
+41-45;41-45;Feminino;Menos de 1 ano;Menos de 1 ano;Mestrado;Medicina;Medico;20 horas;Nao;Nao;Favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Depois FAMED;5;Incentivo;7
+31-35;26-35;Masculino;Entre 1 e 3 anos;1-3 anos;Pós-doutorado;Farmácia;Nao medico;Dedicacao exclusiva;Por outro motivo;Sim;Nao favorece;Nao ministro;Nao ministro;Indisponibilidade;Depois FAMED;2;Incentivo;1
+Mais de 60;46 ou mais;Feminino;Entre  3 e 5 anos;3 ou mais;Doutorado;Medicina;Medico;Dedicacao exclusiva;Por outro motivo;Sim;Favorece;Nao ministro;Nao ministro;Indisponibilidade;Antes FAMED;4;Motivado;10
+31-35;26-35;Feminino;Menos de 1 ano;Menos de 1 ano;Especialista;Medicina;Medico;40 horas;Nao;Nao;Nao sei;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Depois FAMED;1;Incentivo;2
+31-35;26-35;Feminino;Entre 1 e 3 anos;1-3 anos;Especialista;Medicina;Medico;20 horas;Nao;Nao;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Depois FAMED;2;Desmotivado;5
+41-45;41-45;Masculino;Entre 1 e 3 anos;1-3 anos;Especialista;Medicina;Medico;20 horas;Nao;Nao;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;5;Incentivo;6
+36-40;36-40;Masculino;Entre 1 e 3 anos;1-3 anos;Pós-doutorado;CBS;Nao medico;Dedicacao exclusiva;Por outro motivo;Sim;Favorece;Nao ministro;Nao ministro;Preferência;Nao;6;Motivado;1
+36-40;36-40;Feminino;Entre 1 e 3 anos;1-3 anos;Pós-doutorado;CBS;Nao medico;Dedicacao exclusiva;Por outro motivo;Sim;Nao favorece;Nao ministro;Nao ministro;Indisponibilidade;Nao;5;Motivado;11
+31-35;26-35;Feminino;Entre 1 e 3 anos;1-3 anos;Especialista;Medicina;Medico;40 horas;Nao;Nao;Nao favorece;Dispositivo pessoal;Dispositivo pessoal;Indisponibilidade;Nao;3;Incentivo;3

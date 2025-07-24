@@ -1,0 +1,29 @@
+"";"CD_MUN";"NM_MUN";"AREA_KM2";"Micro";"NAME";"pacUltAno";"pacTotal";"taxaInfec";"Micro2";"taxaDetec";"razaoMF";"foraIdeal";"pac3anos";"idh";"idhMicro";"hepa";"taxaHepA";"taxaHepAMi";"Leishmania";"toxo";"CMV";"TB";"taxaaids";"taxaAids_1"
+"1";"3102407";"Alvorada de Minas";374,008;"Serro";"ALVORADA DE MINAS";0;0;0;"Serro";0;0;0;0;0,572;0,595;0;0;1,99;0;0;0;0;0;0
+"2";"3104452";"Aricanduva";243,329;"CMT";"ARICANDUVA";0;2;0;"CMT";0;0;0;0;0,582;0,635;0;0;14,35;0;2;2;0;0;0
+"3";"3112307";"Capelinha";965,292;"CMT";"CAPELINHA";3;34;8,8;"CMT";7,9;0,62;3;9;0,653;0,635;8;21,02;14,35;2;11;6;2;2,6;2,62
+"4";"3113503";"Carbonita";1456,095;"Diamantina";"CARBONITA";0;2;0;"Diamantina";0;0;0;1;0,638;0,63;0;0;15,42;0;1;0;0;0;0
+"5";"3116100";"Chapada do Norte";830,833;"CMT";"CHAPADA DO NORTE";0;11;0;"CMT";0;2,67;0;5;0,598;0,635;2;13,03;14,35;1;1;3;4;0;0
+"6";"3116803";"Coluna";348,492;"Diamantina";"COLUNA";0;4;0;"Diamantina";0;1;0;3;0,583;0,63;1;11,31;15,42;0;0;0;0;0;0
+"7";"3117504";"Conceição do Mato Dentro";1720,106;"Serro";"CONCEIÇÃO DO MATO DENTRO";0;2;0;"Serro";0;1;0;1;0,634;0,595;0;0;1,99;0;0;0;0;0;0
+"8";"3118106";"Congonhas do Norte";405,671;"Diamantina";"CONGONHAS DO NORTE";0;1;0;"Diamantina";0;0;0;0;0,568;0,63;0;0;15,42;0;1;1;0;0;0
+"9";"3120102";"Couto de Magalhães de Minas";485,654;"Diamantina";"COUTO DE MAGALHÃES DE MINAS";0;8;0;"Diamantina";0;3;0;1;0,659;0,63;2;45,22;15,42;0;2;2;0;0;0
+"10";"3121001";"Datas";310,099;"Diamantina";"DATAS";0;3;0;"Diamantina";0;0;0;0;0,616;0,63;0;0;15,42;0;1;0;0;0;0
+"11";"3121605";"Diamantina";3891,659;"Diamantina";"DIAMANTINA";2;74;2,7;"Diamantina";4,2;2,52;2;17;0,716;0,63;13;27,18;15,42;2;25;18;0;0;0
+"12";"3125408";"Felício dos Santos";357,622;"Diamantina";"FELÍCIO DOS SANTOS";0;6;0;"Diamantina";0;1,33;1;1;0,606;0,63;1;21,26;15,42;0;5;2;0;0;0
+"13";"3125507";"São Gonçalo do Rio Preto";314,458;"Diamantina";"SÃO GONÇALO DO RIO PRETO";0;3;0;"Diamantina";0;0;0;1;0,64;0,63;0;0;15,42;0;3;1;0;0;0
+"14";"3127602";"Gouveia";866,601;"Diamantina";"GOUVEIA";2;9;22,2;"Diamantina";16,9;2;1;3;0,681;0,63;1;8,46;15,42;0;2;1;1;16,9;16,92
+"15";"3132503";"Itamarandiba";2735,573;"Diamantina";"ITAMARANDIBA";4;19;21;"Diamantina";11,4;1,37;1;9;0,646;0,63;3;8,59;15,42;0;5;2;0;5,7;5,72
+"16";"3136520";"José Gonçalves de Minas";381,332;"CMT";"JOSÉ GONÇALVES DE MINAS";0;1;0;"CMT";0;0;0;1;0,632;0,635;0;0;14,35;0;0;0;0;0;0
+"17";"3138351";"Leme do Prado";280,036;"CMT";"LEME DO PRADO";0;3;0;"CMT";0;2;0;0;0,67;0,635;0;0;14,35;0;1;0;0;0;0
+"18";"3140605";"Materlândia";280,53;"Guanhães";"MATERLÂNDIA";0;0;0;"Guanhães";0;0;0;0;0,597;0,598;0;0;6,14;0;0;0;0;0;0
+"19";"3141801";"Minas Novas";1812,398;"CMT";"MINAS NOVAS";3;25;0;"CMT";0;1;2;6;0,633;0,635;6;19,04;14,35;1;8;2;1;0;0
+"20";"3153301";"Presidente Kubitschek";189,235;"Diamantina";"PRESIDENTE KUBITSCHEK";0;3;0;"Diamantina";0;2;0;0;0,595;0,63;0;0;15,42;0;2;1;0;0;0
+"21";"3156007";"Rio Vermelho";986,561;"Guanhães";"RIO VERMELHO";1;4;25;"Guanhães";7,8;3;0;1;0,558;0,598;0;0;6,14;0;0;0;0;7,8;7,85
+"22";"3156809";"Sabinópolis";919,811;"Guanhães";"SABINÓPOLIS";0;4;0;"Guanhães";0;1;0;1;0,638;0,598;2;12,97;6,14;0;1;1;0;0;0
+"23";"3160207";"Santo Antônio do Itambé";305,737;"Serro";"SANTO ANTÔNIO DO ITAMBÉ";0;1;0;"Serro";0;0;0;0;0,558;0,595;0;0;1,99;0;1;0;0;0;0
+"24";"3165909";"Senador Modestino Gonçalves";952,055;"Diamantina";"SENADOR MODESTINO GONÇALVES";1;3;33,3;"Diamantina";24,4;2;0;1;0,62;0,63;1;24,36;15,42;0;1;0;0;24,4;24,36
+"25";"3166501";"Serra Azul de Minas";218,595;"Serro";"SERRA AZUL DE MINAS";0;1;0;"Serro";0;0;0;0;0,557;0,595;1;23,3;1,99;0;0;1;0;0;0
+"26";"3167103";"Serro";1217,813;"Serro";"SERRO";0;8;0;"Serro";0;3;2;1;0,656;0,595;0;0;1,99;0;2;0;1;0;0
+"27";"3169703";"Turmalina";1153,111;"CMT";"TURMALINA";1;7;14,3;"CMT";5;6;0;1;0,682;0,635;2;9,94;14,35;0;0;1;1;5;4,96
+"28";"3171071";"Veredinha";631,692;"CMT";"VEREDINHA";0;0;0;"CMT";0;0;0;0;0,632;0,635;0;0;14,35;0;0;0;0;0;0
